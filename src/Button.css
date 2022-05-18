@@ -1,0 +1,21 @@
+.Cell {
+  height: 80px;
+  width: 80px;
+  background-color: green;
+}
+
+.CellStyle {
+  background-color: #00bcd4;
+}
+
+.lightOnStyle {
+  background-color: green;
+  height: 80px;
+  width: 80px;
+}
+
+.lightOffStyle {
+  background-color: red;
+  height: 80px;
+  width: 80px;
+}
